@@ -21,6 +21,8 @@ Early sugar head
 This can’t be in my mind  
 Breathing neon from my bed  
 
+&nbsp;
+
 *— Instrumental —*
 
 &nbsp;
@@ -39,6 +41,8 @@ Casting out a tangible phantom
 Waking in the silent hum of someone else’s dream  
 I'm displaced  
 
+&nbsp;
+
 *— Guitar Solo —*
 
 &nbsp;
@@ -50,6 +54,8 @@ They’re playing plastic songs
 Early sugar head  
 This can’t be in my mind  
 Breathing neon from my… That can’t be there!
+
+&nbsp;
 
 *— Instrumental (Bass) —*
 
