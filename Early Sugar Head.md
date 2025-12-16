@@ -3,9 +3,9 @@
 
 **Song / Lyrics:** Sakura Miyake
 
----
 
-## Verse 1
+
+### Verse 1
 
 Early sugar head  
 This can’t be in my mind  
@@ -25,7 +25,7 @@ Breathing neon from my bed
 
 
 
-## Chorus 1
+### Chorus 1
 
 I've fully awakened, I am fully awake now,  
 I’ve been fully awakened,  
@@ -43,7 +43,7 @@ I'm displaced
 
 
 
-## Pre-Chorus
+### Pre-Chorus
 
 While everyone's half awake, ah  
 They’re playing plastic songs  
@@ -55,7 +55,7 @@ Breathing neon from my… **That can’t be there!**
 
 
 
-## Chorus 2
+### Chorus 2
 
 I've fully awakened, I am fully awake now,  
 I’ve been fully awakened,  
@@ -72,10 +72,13 @@ I'm misplaced
 
 
 
-## Chorus 3
+### Chorus 3
 
 I've fully awakened, I am fully awake now,  
 I’ve been fully awakened,  
 I am walking through the peppermint sea  
 
 My mind is like a melting stereo…
+
+
+
