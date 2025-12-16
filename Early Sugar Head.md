@@ -3,7 +3,7 @@
 
 **Song / Lyrics:** Sakura Miyake
 
-
+&nbsp;
 
 ### Verse 1
 
@@ -23,7 +23,7 @@ Breathing neon from my bed
 
 *— Instrumental —*
 
-
+&nbsp;
 
 ### Chorus 1
 
@@ -41,7 +41,7 @@ I'm displaced
 
 *— Guitar Solo —*
 
-
+&nbsp;
 
 ### Pre-Chorus
 
@@ -53,7 +53,7 @@ Breathing neon from my… That can’t be there!
 
 *— Instrumental (Bass) —*
 
-
+&nbsp;
 
 ### Chorus 2
 
@@ -70,7 +70,7 @@ Reaching out those flickering phantoms
 Fading into myths  
 I'm misplaced  
 
-
+&nbsp;
 
 ### Chorus 3
 
@@ -80,6 +80,6 @@ I am walking through the peppermint sea
 
 My mind is like a melting stereo…
 
-
+&nbsp;
 
 *— Fin. —*
