@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Early Sugar Head
 ---
 
