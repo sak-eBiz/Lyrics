@@ -1,3 +1,8 @@
+---
+layout: default
+title: Early Sugar Head
+---
+
 # Early Sugar Head  
 ### a.k.a. *Pistachio Girl*
 
