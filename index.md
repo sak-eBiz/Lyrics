@@ -2,6 +2,6 @@
 
 &nbsp;
 
-- [Early Sugar Head](early-sugar-head/)
+Early Sugar Head](early-sugar-head.html)
 
 &nbsp;
