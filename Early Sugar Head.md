@@ -23,7 +23,7 @@ Breathing neon from my bed
 
 *— Instrumental —*
 
----
+
 
 ## Chorus 1
 
@@ -41,7 +41,7 @@ I'm displaced
 
 *— Guitar Solo —*
 
----
+
 
 ## Pre-Chorus
 
@@ -53,7 +53,7 @@ Breathing neon from my… **That can’t be there!**
 
 *— Instrumental (Bass) —*
 
----
+
 
 ## Chorus 2
 
@@ -70,7 +70,7 @@ Reaching out those flickering phantoms
 Fading into myths  
 I'm misplaced  
 
----
+
 
 ## Chorus 3
 
