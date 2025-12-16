@@ -1,3 +1,7 @@
 # Lyrics
 
-- [Early Sugar Head](Early-Sugar-Head/)
+&nbsp;
+
+[Early Sugar Head](early-sugar-head.html)
+
+&nbsp;
