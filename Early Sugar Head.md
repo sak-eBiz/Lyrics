@@ -49,7 +49,7 @@ While everyone's half awake, ah
 They’re playing plastic songs  
 Early sugar head  
 This can’t be in my mind  
-Breathing neon from my… **That can’t be there!**
+Breathing neon from my… That can’t be there!
 
 *— Instrumental (Bass) —*
 
@@ -82,3 +82,4 @@ My mind is like a melting stereo…
 
 
 
+*— Fin. —*
