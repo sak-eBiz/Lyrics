@@ -1,8 +1,3 @@
----
-permalink: /Lyrics/early-sugar-head/
----
-
-
 # Early Sugar Head  
 ### a.k.a. *Pistachio Girl*
 
